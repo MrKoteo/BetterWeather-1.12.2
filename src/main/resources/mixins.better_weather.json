@@ -1,0 +1,15 @@
+{
+  "required": true,
+  "minVersion": "0.8",
+  "package": "paulevs.betterweather.mixin.common",
+  "compatibilityLevel": "JAVA_8",
+  "refmap": "mixins.better_weather.refmap.json",
+  "mixins": [
+    "MixinWorld",
+    "MixinWorldInfo",
+    "MixinBlockFire"
+  ],
+  "injectors": {
+    "defaultRequire": 1
+  }
+}

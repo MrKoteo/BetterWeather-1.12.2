@@ -1,0 +1,11 @@
+{
+  "ambient.weather.rain": {
+    "category": "ambient",
+    "sounds": [
+      {
+        "name": "better_weather:rain",
+        "stream": true
+      }
+    ]
+  }
+}

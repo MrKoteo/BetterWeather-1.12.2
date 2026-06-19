@@ -1,0 +1,16 @@
+[
+{
+    "modid": "better_weather",
+    "name": "Better Weather",
+    "description": "Makes clouds fluffy and weather local with better visual effects.",
+    "version": "${version}",
+    "mcversion": "${mcversion}",
+    "url": "https://github.com/paulevsGitch/BetterWeather",
+    "updateUrl": "",
+    "authorList": ["paulevs (original)", "hunterhaunter (1.12.2 port)"],
+    "credits": "Original mod by paulevs",
+    "logoFile": "assets/better_weather/icon.png",
+    "screenshots": [],
+    "dependencies": []
+}
+]
