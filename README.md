@@ -31,19 +31,6 @@ the rendering and simulation rebuilt on the 1.12.2 Forge rendering pipeline.
 2. Drop MixinBooter and `better_weather-1.0.jar` into your `mods` folder.
 3. Launch the game.
 
-## Building from source
-
-```
-./gradlew build
-```
-
-The built jar is written to `build/libs/`.
-
-## Credits
-
-- Original mod: [paulevs](https://github.com/paulevsGitch/BetterWeather)
-- 1.12.2 Forge port: hunterhaunter
-
 ## License
 
 [MIT](LICENSE). The original mod is MIT licensed by paulevs; this port keeps the same license.
